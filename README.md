@@ -31,9 +31,9 @@ The project is designed to store data in a PostgreSQL database. Follow these ins
 
 Find the tables within the `crowdfunding_db` database. Right click on the table, and select **Import Data**.
 
-![image](./Screenshots/Import Data Example 1.png)
+![image info](./Screenshots/Import Data Example 1.png)
 
 In the following screen, select the matching CSV file to import. Select **Proceed** to import the contents of the CSV to the table.
 
-![image](./Screenshots/Import Data Example 2.png)
+![image info](./Screenshots/Import Data Example 2.png)
 
