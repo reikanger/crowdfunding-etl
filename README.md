@@ -1,4 +1,4 @@
-# Project 2 - ETL Mini Project
+# Crowdfunding ETL Project
 ETL mini project, to build an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions. 
 The goal is to extract and transform data. Afterward, you’ll create four CSV files and use the data from these files to create an Entity-Relationship Diagram (ERD) and a table schema. Finally, you’ll upload the CSV data into a Postgres database.
 
